@@ -28,4 +28,4 @@ IMPORTANT:
 - Review the results after running each utility.
 
 Developed by: Ferdy Asino
-GitHub: https://github.com/ferdyasino/windows-driver-toolkit
+GitHub: https://github.com/ferdyasino/Windows_IT_Utility_Commands
